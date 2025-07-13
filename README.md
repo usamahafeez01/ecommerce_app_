@@ -39,7 +39,7 @@ This project demonstrates clean architecture with **MVVM**, **BLoC for state man
 
 ## 📱 APK Download
 
-- 👉 [Download APK](https://drive.google.com/file/d/1OtfAXyh3U4kTUPAK3V4WZr3MNJlbuv-k/view?usp=drive_link)  
+- 👉 [Download APK](https://drive.google.com/file/d/1vHIj8KpYW0ai2xTEI8noiLLXQUYDVa64/view?usp=drive_link)  
 - 📂 [Google Drive Video Link](https://drive.google.com/file/d/1yTtmW2PH_ojwc3s6dVkwq0oNNndtbuDN/view?usp=drive_link](https://drive.google.com/file/d/1yTtmW2PH_ojwc3s6dVkwq0oNNndtbuDN/view?usp=drive_link))
 
 ---

@@ -11,6 +11,10 @@ This project demonstrates clean architecture with **MVVM**, **BLoC for state man
 - ✅ Authenticate using `/auth/login`
 - ✅ Handle and store tokens securely
 - ✅ Redirect to the main app screen on successful login
+- **Login Creds**
+ "username": "mor_2314",
+  "password": "83r5^_"
+
 
 ### 2. 🛍️ Product Listing
 - ✅ Fetch products using `/products`
